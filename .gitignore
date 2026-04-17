@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# 授業コンテンツ（妻の著作物）はリポジトリに含めない
+samples/
+patterns/
