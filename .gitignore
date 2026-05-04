@@ -7,3 +7,6 @@ venv/
 # 授業コンテンツ（妻の著作物）はリポジトリに含めない
 samples/
 patterns/
+
+# ローカル開発の生成物
+_output/
